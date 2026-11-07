@@ -101,3 +101,9 @@ python -m streamlit run app.py
 ## Data Interpretation Note
 
 Gross line revenue includes all order statuses and should not be interpreted as net revenue or completed-order revenue. Some records have unmatched product or customer identifiers, and some revenue values are unavailable. These limitations should be considered when interpreting totals and category/customer attribution.
+
+## Related Assignment
+
+The following repository contains the Python Bootcamp assignments and practical exercises associated with my data analytics training.
+
+**[View Python Bootcamp Assignment and Deliverables — Days 2–6](https://github.com/FlyingRaijin47/python-bootcamp-capstone)**
